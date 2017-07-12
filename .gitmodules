@@ -1,0 +1,3 @@
+[submodule "capital-guesser"]
+	path = capital-guesser
+	url = git@github.com:krokerik/capital-guesser.git
