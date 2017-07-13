@@ -1,6 +1,8 @@
 [submodule "capital-guesser"]
 	path = capital-guesser
 	url = https://github.com/krokerik/capital-guesser.git
+	branch = master
 [submodule "Oil-Fund-Counter"]
 	path = Oil-Fund-Counter
 	url = https://github.com/krokerik/Oil-Fund-Counter.git
+	branch = master
