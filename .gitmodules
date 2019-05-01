@@ -6,3 +6,6 @@
 	path = Oil-Fund-Counter
 	url = https://github.com/krokerik/Oil-Fund-Counter.git
 	branch = master
+[submodule "football-finder"]
+	path = football-finder
+	url = https://github.com/krokerik/football-finder.git
