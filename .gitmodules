@@ -9,3 +9,6 @@
 [submodule "football-finder"]
 	path = football-finder
 	url = https://github.com/krokerik/football-finder.git
+[submodule "svtposter"]
+	path = svtposter
+	url = https://github.com/krokerik/svtposter.git
